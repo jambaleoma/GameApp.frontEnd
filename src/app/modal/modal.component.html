@@ -1,0 +1,20 @@
+<p-dialog [header]="headerText" [(visible)]="displayModal" [modal]="true" [style]="{width: '50vw'}" [draggable]="false"
+    [resizable]="false">
+    <div class="row">
+      <div class="col-sm" style="padding-top: 1em;">
+           Nome Gioco: {{title}}
+        </div>
+        <div class="col-sm" style="padding-top: 1em;">
+          <img [src]="'./../../assets/img/gameCovers/' + path + '.jpg'" alt="cover">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm" style="padding-top: 1em;">
+        Prezzo Gioco: {{price | currency:'EUR':true}}
+      </div>
+    </div>
+    <ng-template pTemplate="footer">
+        <p-button icon="pi pi-check" (click)="displayModal=false" iconPos="right" label="Ok" styleClass="p-button-text">
+        </p-button>
+    </ng-template>
+</p-dialog>

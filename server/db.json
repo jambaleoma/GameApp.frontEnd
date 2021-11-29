@@ -1,0 +1,133 @@
+{
+  "games": [{
+      "id": "9e770649-8ae0-4d3d-82c8-cbe11571b846",
+      "price": "$61.15",
+      "name": "New Wolrd"
+    },
+    {
+      "id": "d6d786d1-c4ce-4ec7-804b-9a47f9044073",
+      "price": "$37.50",
+      "name": "FIFA 22"
+    },
+    {
+      "id": "f4dfd321-4cd7-4bcc-8449-e1cf5a0b9a78",
+      "price": "$48.03",
+      "name": "Sekiro"
+    },
+    {
+      "id": "053f4fd7-6587-4876-b648-d22df2fb33fe",
+      "price": "$29.90",
+      "name": "F1 2021"
+    },
+    {
+      "id": "b92f7f44-16ee-485b-8ea8-732661caac65",
+      "price": "$95.62",
+      "name": "Dark Souls"
+    },
+    {
+      "id": "8f08150e-4e23-47be-9bbf-c3a28373aad9",
+      "price": "$65.89",
+      "name": "Farming Simulator 2022"
+    },
+    {
+      "id": "69944b2e-857e-4bc5-90b6-d69e374af6be",
+      "price": "$32.40",
+      "name": "Forza Horizon 5"
+    },
+    {
+      "id": "f94dcf56-e5fd-4c2e-a191-dd693518b358",
+      "price": "$11.60",
+      "name": "HALO Infinite"
+    },
+    {
+      "id": "d16a9a74-fc0a-4d37-a998-f06095af2839",
+      "price": "$67.14",
+      "name": "Hearts of Iron IV"
+    },
+    {
+      "id": "124ea5fe-83e7-4c88-83c7-a0e2a74c5b1b",
+      "price": "$99.15",
+      "name": "Battlefield 2042"
+    },
+    {
+      "id": "3c52f93c-ec01-4d48-9777-990761160b95",
+      "price": "$58.90",
+      "name": "Sea of Thieves"
+    },
+    {
+      "id": "db92fbf4-b9a5-4986-9a56-ece3177a291c",
+      "price": "$61.48",
+      "name": "Horizon"
+    },
+    {
+      "id": "242e217c-2557-45c7-ac22-2db692ff8acc",
+      "price": "$67.48",
+      "name": "2K NBA 2K22"
+    },
+    {
+      "id": "4e51d3c2-93b1-428f-b408-a96f1698c030",
+      "price": "$61.41",
+      "name": "Skyrim"
+    },
+    {
+      "id": "ddbdf5d1-904e-42d3-9623-4f9fab6811f5",
+      "price": "$48.90",
+      "name": "Deathloop"
+    },
+    {
+      "id": "043f52f1-e8dd-474c-82c0-a776d855784b",
+      "price": "$15.91",
+      "name": "GTA premium edition"
+    },
+    {
+      "id": "95acde37-252f-4869-b639-7e97fbc933ca",
+      "price": "$27.83",
+      "name": "DOOM"
+    },
+    {
+      "id": "de0c4a41-27b1-46b4-bbbb-2f4d45f32c5c",
+      "price": "$66.69",
+      "name": "death stranding"
+    },
+    {
+      "id": "1dbe10ae-8349-4c96-b0cf-ff69167b272d",
+      "price": "$55.03",
+      "name": "Ruined King"
+    },
+    {
+      "id": "b21a84a4-858a-4686-846f-00c0812232e9",
+      "price": "$15.32",
+      "name": "Age of empire IV"
+    },
+    {
+      "id": "dd067f5e-eb19-4d4c-b2f3-fe88d79819e8",
+      "price": "$10.95",
+      "name": "Metro Exodus"
+    },
+    {
+      "id": "e1394bb3-ce27-46c0-b96f-678b7ad14ce7",
+      "price": "$58.53",
+      "name": "Civilization VI"
+    },
+    {
+      "id": "18b14d41-5e2a-4de2-97b2-ca0827861ee9",
+      "price": "$94.59",
+      "name": "The Witcher 3: Wild Hunt"
+    },
+    {
+      "id": "7744cff0-e169-4b3f-bcd4-f597ce8d7948",
+      "price": "$81.82",
+      "name": "Borderlands 3"
+    },
+    {
+      "id": "97345e16-e1b2-43eb-9733-295cbd9e6e29",
+      "price": "$52.70",
+      "name": "Star Wars Jedi: Fallen Order"
+    },
+    {
+      "id": "397b7717-c413-44fe-bf0f-0280b80c0d11",
+      "price": "$98.14",
+      "name": "Red Dead Redemption II"
+    }
+  ]
+}
